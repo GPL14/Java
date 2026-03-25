@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "swapnum",
+            "request": "launch",
+            "mainClass": "swapnum",
+            "projectName": "java_2dd58d54"
+        },
+        {
+            "type": "java",
             "name": "evenodd",
             "request": "launch",
             "mainClass": "evenodd",
