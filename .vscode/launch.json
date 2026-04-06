@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "java_2dd58d54"
+        },
+        {
+            "type": "java",
             "name": "studentmark",
             "request": "launch",
             "mainClass": "studentmark",
