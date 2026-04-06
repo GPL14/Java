@@ -11,7 +11,7 @@ public class swapnum {
         a=a+b;
         b=a-b;
         a=a-b;
-        System.out.println("a= "+a+","+" b= "+b);
+        System.out.println("Swap Number btween among a and b that are "+"a= "+a+","+" b= "+b);
         sc.close();
 
     }
